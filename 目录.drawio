@@ -1,0 +1,46 @@
+<mxfile host="app.diagrams.net" modified="2024-07-09T00:40:08.273Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="LikNg3iBocuCOxE0V6Qi" version="24.6.4" type="github">
+  <diagram name="第 1 页" id="qHYOOywSn6JKvsOJoLlX">
+    <mxGraphModel dx="1386" dy="793" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="WkfAN8dBZaxWNwmtFyOf-3" value="software&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="250" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WkfAN8dBZaxWNwmtFyOf-5" value="professional" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WkfAN8dBZaxWNwmtFyOf-6" value="recreation" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WkfAN8dBZaxWNwmtFyOf-7" value="platform" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="414" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WkfAN8dBZaxWNwmtFyOf-9" value="game" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="414" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WkfAN8dBZaxWNwmtFyOf-12" value="Language_development" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WkfAN8dBZaxWNwmtFyOf-14" value="platform" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WkfAN8dBZaxWNwmtFyOf-16" value="code" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WkfAN8dBZaxWNwmtFyOf-17" value="exploitation_environment" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WkfAN8dBZaxWNwmtFyOf-18" value="..." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WkfAN8dBZaxWNwmtFyOf-19" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="180" width="50" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="WkfAN8dBZaxWNwmtFyOf-20" value="安装软件前把桌面放到D盘&lt;div&gt;安装软件前把桌面放到D盘&lt;br&gt;&lt;/div&gt;&lt;div&gt;安装软件前把桌面放到D盘&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="20" width="390" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
